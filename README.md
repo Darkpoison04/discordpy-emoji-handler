@@ -1,0 +1,1 @@
+# discordpy-emoji-handler
